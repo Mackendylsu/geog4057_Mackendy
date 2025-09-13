@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node-terminal",
+            "name": "JavaScript Debug Terminal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}", 
+            "cwd": "C:/Users/mcerag1/OneDrive - Louisiana State University/Documents/PHD_LSU/FALL_20225/GIS Programming/Assignment/02/programming/geog4057_Mackendy/Assignment 2"
+        }
+    ]
+}
